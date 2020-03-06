@@ -1,0 +1,113 @@
+C:\Users\User\Desktop\systzahinf\systzahinf\bin\Debug\systzahinf.exe.config
+C:\Users\User\Desktop\systzahinf\systzahinf\bin\Debug\systzahinf.exe
+C:\Users\User\Desktop\systzahinf\systzahinf\bin\Debug\systzahinf.pdb
+C:\Users\User\Desktop\systzahinf\systzahinf\obj\Debug\systzahinf.csprojAssemblyReference.cache
+C:\Users\User\Desktop\systzahinf\systzahinf\obj\Debug\systzahinf.Form1.resources
+C:\Users\User\Desktop\systzahinf\systzahinf\obj\Debug\systzahinf.Properties.Resources.resources
+C:\Users\User\Desktop\systzahinf\systzahinf\obj\Debug\systzahinf.csproj.GenerateResource.cache
+C:\Users\User\Desktop\systzahinf\systzahinf\obj\Debug\systzahinf.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\systzahinf\systzahinf\obj\Debug\systzahinf.exe
+C:\Users\User\Desktop\systzahinf\systzahinf\obj\Debug\systzahinf.pdb
+C:\Users\tasik\Downloads\systzahinf\systzahinf\bin\Debug\systzahinf.exe.config
+C:\Users\tasik\Downloads\systzahinf\systzahinf\bin\Debug\systzahinf.exe
+C:\Users\tasik\Downloads\systzahinf\systzahinf\bin\Debug\systzahinf.pdb
+C:\Users\tasik\Downloads\systzahinf\systzahinf\obj\Debug\systzahinf.csprojAssemblyReference.cache
+C:\Users\tasik\Downloads\systzahinf\systzahinf\obj\Debug\systzahinf.Form1.resources
+C:\Users\tasik\Downloads\systzahinf\systzahinf\obj\Debug\systzahinf.Properties.Resources.resources
+C:\Users\tasik\Downloads\systzahinf\systzahinf\obj\Debug\systzahinf.csproj.GenerateResource.cache
+C:\Users\tasik\Downloads\systzahinf\systzahinf\obj\Debug\systzahinf.csproj.CoreCompileInputs.cache
+C:\Users\tasik\Downloads\systzahinf\systzahinf\obj\Debug\systzahinf.exe
+C:\Users\tasik\Downloads\systzahinf\systzahinf\obj\Debug\systzahinf.pdb
+C:\Users\User\Desktop\тарасзах\systzahinf\bin\Debug\systzahinf.exe.config
+C:\Users\User\Desktop\тарасзах\systzahinf\bin\Debug\systzahinf.exe
+C:\Users\User\Desktop\тарасзах\systzahinf\bin\Debug\systzahinf.pdb
+C:\Users\User\Desktop\тарасзах\systzahinf\obj\Debug\systzahinf.csprojAssemblyReference.cache
+C:\Users\User\Desktop\тарасзах\systzahinf\obj\Debug\systzahinf.Form1.resources
+C:\Users\User\Desktop\тарасзах\systzahinf\obj\Debug\systzahinf.Properties.Resources.resources
+C:\Users\User\Desktop\тарасзах\systzahinf\obj\Debug\systzahinf.csproj.GenerateResource.cache
+C:\Users\User\Desktop\тарасзах\systzahinf\obj\Debug\systzahinf.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\тарасзах\systzahinf\obj\Debug\systzahinf.exe
+C:\Users\User\Desktop\тарасзах\systzahinf\obj\Debug\systzahinf.pdb
+C:\Users\tasik\Downloads\тарасзах\systzahinf\bin\Debug\systzahinf.exe.config
+C:\Users\tasik\Downloads\тарасзах\systzahinf\bin\Debug\systzahinf.exe
+C:\Users\tasik\Downloads\тарасзах\systzahinf\bin\Debug\systzahinf.pdb
+C:\Users\tasik\Downloads\тарасзах\systzahinf\obj\Debug\systzahinf.csprojAssemblyReference.cache
+C:\Users\tasik\Downloads\тарасзах\systzahinf\obj\Debug\systzahinf.Form1.resources
+C:\Users\tasik\Downloads\тарасзах\systzahinf\obj\Debug\systzahinf.Properties.Resources.resources
+C:\Users\tasik\Downloads\тарасзах\systzahinf\obj\Debug\systzahinf.csproj.GenerateResource.cache
+C:\Users\tasik\Downloads\тарасзах\systzahinf\obj\Debug\systzahinf.csproj.CoreCompileInputs.cache
+C:\Users\tasik\Downloads\тарасзах\systzahinf\obj\Debug\systzahinf.exe
+C:\Users\tasik\Downloads\тарасзах\systzahinf\obj\Debug\systzahinf.pdb
+C:\Users\tasik\Desktop\тарасзах(виженера)\systzahinf\bin\Debug\systzahinf.exe.config
+C:\Users\tasik\Desktop\тарасзах(виженера)\systzahinf\bin\Debug\systzahinf.exe
+C:\Users\tasik\Desktop\тарасзах(виженера)\systzahinf\bin\Debug\systzahinf.pdb
+C:\Users\tasik\Desktop\тарасзах(виженера)\systzahinf\obj\Debug\systzahinf.csprojAssemblyReference.cache
+C:\Users\tasik\Desktop\тарасзах(виженера)\systzahinf\obj\Debug\systzahinf.Form1.resources
+C:\Users\tasik\Desktop\тарасзах(виженера)\systzahinf\obj\Debug\systzahinf.Properties.Resources.resources
+C:\Users\tasik\Desktop\тарасзах(виженера)\systzahinf\obj\Debug\systzahinf.csproj.GenerateResource.cache
+C:\Users\tasik\Desktop\тарасзах(виженера)\systzahinf\obj\Debug\systzahinf.csproj.CoreCompileInputs.cache
+C:\Users\tasik\Desktop\тарасзах(виженера)\systzahinf\obj\Debug\systzahinf.exe
+C:\Users\tasik\Desktop\тарасзах(виженера)\systzahinf\obj\Debug\systzahinf.pdb
+E:\тарасзах(виженера)\systzahinf\bin\Debug\systzahinf.exe.config
+E:\тарасзах(виженера)\systzahinf\bin\Debug\systzahinf.exe
+E:\тарасзах(виженера)\systzahinf\bin\Debug\systzahinf.pdb
+E:\тарасзах(виженера)\systzahinf\obj\Debug\systzahinf.Form1.resources
+E:\тарасзах(виженера)\systzahinf\obj\Debug\systzahinf.Properties.Resources.resources
+E:\тарасзах(виженера)\systzahinf\obj\Debug\systzahinf.csproj.GenerateResource.Cache
+E:\тарасзах(виженера)\systzahinf\obj\Debug\systzahinf.csproj.CoreCompileInputs.cache
+E:\тарасзах(виженера)\systzahinf\obj\Debug\systzahinf.exe
+E:\тарасзах(виженера)\systzahinf\obj\Debug\systzahinf.pdb
+E:\тарасзах(виженера)\systzahinf\obj\Debug\systzahinf.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\тарасзах(виженера)\systzahinf\bin\Debug\systzahinf.exe.config
+C:\Users\User\Desktop\тарасзах(виженера)\systzahinf\bin\Debug\systzahinf.exe
+C:\Users\User\Desktop\тарасзах(виженера)\systzahinf\bin\Debug\systzahinf.pdb
+C:\Users\User\Desktop\тарасзах(виженера)\systzahinf\obj\Debug\systzahinf.csprojAssemblyReference.cache
+C:\Users\User\Desktop\тарасзах(виженера)\systzahinf\obj\Debug\systzahinf.Form1.resources
+C:\Users\User\Desktop\тарасзах(виженера)\systzahinf\obj\Debug\systzahinf.Properties.Resources.resources
+C:\Users\User\Desktop\тарасзах(виженера)\systzahinf\obj\Debug\systzahinf.csproj.GenerateResource.cache
+C:\Users\User\Desktop\тарасзах(виженера)\systzahinf\obj\Debug\systzahinf.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\тарасзах(виженера)\systzahinf\obj\Debug\systzahinf.exe
+C:\Users\User\Desktop\тарасзах(виженера)\systzahinf\obj\Debug\systzahinf.pdb
+C:\Users\User\Desktop\тарасзах(виженера)\systzahinf\obj\Debug\systzahinf.Zamina.resources
+C:\Users\User\Desktop\тарасзах(виженера)\systzahinf\obj\Debug\systzahinf.Blocnot.resources
+C:\Users\User\Desktop\тарасзах(виженера)\systzahinf\obj\Debug\systzahinf.Vigeneracs.resources
+C:\Users\User\Desktop\тарасзах(виженера)\systzahinf\obj\Debug\systzahinf.Perest.resources
+C:\Users\User\Desktop\тарасзах(виженера)\systzahinf\obj\Debug\systzahinf.AES.resources
+C:\Users\User\Desktop\тарасзах(виженера)\systzahinf\obj\Debug\systzahinf.DES.resources
+C:\Users\User\Desktop\тарасзах(виженера)\systzahinf\obj\Debug\systzahinf.RSA.resources
+C:\Users\User\Desktop\курс прога\systzahinf\bin\Debug\systzahinf.exe.config
+C:\Users\User\Desktop\курс прога\systzahinf\bin\Debug\systzahinf.exe
+C:\Users\User\Desktop\курс прога\systzahinf\bin\Debug\systzahinf.pdb
+C:\Users\User\Desktop\курс прога\systzahinf\obj\Debug\systzahinf.csprojAssemblyReference.cache
+C:\Users\User\Desktop\курс прога\systzahinf\obj\Debug\systzahinf.AES.resources
+C:\Users\User\Desktop\курс прога\systzahinf\obj\Debug\systzahinf.Blocnot.resources
+C:\Users\User\Desktop\курс прога\systzahinf\obj\Debug\systzahinf.DES.resources
+C:\Users\User\Desktop\курс прога\systzahinf\obj\Debug\systzahinf.Form1.resources
+C:\Users\User\Desktop\курс прога\systzahinf\obj\Debug\systzahinf.Perest.resources
+C:\Users\User\Desktop\курс прога\systzahinf\obj\Debug\systzahinf.Properties.Resources.resources
+C:\Users\User\Desktop\курс прога\systzahinf\obj\Debug\systzahinf.RSA.resources
+C:\Users\User\Desktop\курс прога\systzahinf\obj\Debug\systzahinf.Vigeneracs.resources
+C:\Users\User\Desktop\курс прога\systzahinf\obj\Debug\systzahinf.Zamina.resources
+C:\Users\User\Desktop\курс прога\systzahinf\obj\Debug\systzahinf.csproj.GenerateResource.cache
+C:\Users\User\Desktop\курс прога\systzahinf\obj\Debug\systzahinf.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\курс прога\systzahinf\obj\Debug\systzahinf.exe
+C:\Users\User\Desktop\курс прога\systzahinf\obj\Debug\systzahinf.pdb
+C:\Users\User\Desktop\курс прога\systzahinf\obj\Debug\systzahinf.El.resources
+C:\Users\User\Desktop\система-довідник\systzahinf\bin\Debug\systzahinf.exe.config
+C:\Users\User\Desktop\система-довідник\systzahinf\bin\Debug\systzahinf.exe
+C:\Users\User\Desktop\система-довідник\systzahinf\bin\Debug\systzahinf.pdb
+C:\Users\User\Desktop\система-довідник\systzahinf\obj\Debug\systzahinf.csprojAssemblyReference.cache
+C:\Users\User\Desktop\система-довідник\systzahinf\obj\Debug\systzahinf.AES.resources
+C:\Users\User\Desktop\система-довідник\systzahinf\obj\Debug\systzahinf.Blocnot.resources
+C:\Users\User\Desktop\система-довідник\systzahinf\obj\Debug\systzahinf.DES.resources
+C:\Users\User\Desktop\система-довідник\systzahinf\obj\Debug\systzahinf.El.resources
+C:\Users\User\Desktop\система-довідник\systzahinf\obj\Debug\systzahinf.Form1.resources
+C:\Users\User\Desktop\система-довідник\systzahinf\obj\Debug\systzahinf.Perest.resources
+C:\Users\User\Desktop\система-довідник\systzahinf\obj\Debug\systzahinf.Properties.Resources.resources
+C:\Users\User\Desktop\система-довідник\systzahinf\obj\Debug\systzahinf.RSA.resources
+C:\Users\User\Desktop\система-довідник\systzahinf\obj\Debug\systzahinf.Vigeneracs.resources
+C:\Users\User\Desktop\система-довідник\systzahinf\obj\Debug\systzahinf.Zamina.resources
+C:\Users\User\Desktop\система-довідник\systzahinf\obj\Debug\systzahinf.csproj.GenerateResource.cache
+C:\Users\User\Desktop\система-довідник\systzahinf\obj\Debug\systzahinf.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\система-довідник\systzahinf\obj\Debug\systzahinf.exe
+C:\Users\User\Desktop\система-довідник\systzahinf\obj\Debug\systzahinf.pdb
